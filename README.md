@@ -1,7 +1,7 @@
 # portafolioMLStefhany
 
 Machine learning - Stefhany Rodriguez
-![til](./app/assets/images/banner.png)
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 En este portafolio encontrarás cinco proyectos desarrollados en Jupyter Notebook. Para facilitar su visualización, han sido exportados a formato HTML, permitiendo a los usuarios explorarlos de manera más sencilla.
 
