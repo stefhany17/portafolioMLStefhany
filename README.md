@@ -8,10 +8,14 @@ Proyecto #1: Food Hub. Este proyecto analiza los pedidos de una plataforma de en
 https://stefhany17.github.io/portafolioMLStefhany/FoodhubStefhany.html
 
 Proyecto #2: E News. Este proyecto analiza si un rediseño de la página de inicio mejora la adquisición de suscriptores mediante A/B testing y pruebas estadísticas con un nivel de significancia del 5%. Se evalúa el impacto en el tiempo de permanencia, la tasa de conversión y la influencia del idioma preferido. Se aplican pruebas de hipótesis, comparación de medias, proporciones, independencia y ANOVA para validar la efectividad del nuevo diseño.
+https://stefhany17.github.io/portafolioMLStefhany/ENewsExpress.html
 
 Proyecto #3: ReCell - Predicción de Precios de Dispositivos Usados. Este proyecto implementa un modelo de regresión lineal para predecir el precio de teléfonos y tablets usados, identificando los factores clave que lo afectan. Se analizan supuestos estadísticos, evaluación del modelo e inferencias, permitiendo a la startup ReCell optimizar su estrategia de precios en el mercado de segunda mano. Aprendizaje supervisado regresion.
+https://stefhany17.github.io/portafolioMLStefhany/RefurbishedDevices.html
 
 Proyecto #4: Hotels INN - Predicción de Cancelaciones. Se desarrolla un modelo de Machine Learning para predecir cancelaciones de reservas en INN Hotels Group, usando regresión logística y árboles de decisión. El objetivo es minimizar pérdidas e identificar factores clave para optimizar estrategias de reservas y reembolsos. Aprendizaje clasificacion.
+https://stefhany17.github.io/portafolioMLStefhany/INNHotels.html
 
 Proyecto #5: Easy Visa - Predicción de Aprobación de Visas. Se implementa un modelo de Machine Learning para predecir la aprobación de visas en EE. UU., optimizando el proceso de certificación laboral del OFLC ante el creciente número de solicitudes. Técnicas utilizadas: Bagging: Random Forest y muestreo con reemplazo. Boosting: Adaboost y Gradient Boost. Stacking: Combinación de múltiples modelos para mejorar la precisión. Modelo para predecir aprobaciones de visas, ayudando a OFLC a agilizar el proceso y recomendar perfiles con mayor probabilidad de certificación.
+https://stefhany17.github.io/portafolioMLStefhany/easyvisa.html
 
