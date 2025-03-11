@@ -2,7 +2,7 @@
 
 Machine learning - Stefhany Rodriguez
 
-En este portafolio encontrarás cinco proyectos desarrollados en Jupyter Notebook. Para facilitar su visualización, han sido exportados a formato HTML, permitiendo a los usuarios explorarlos de manera más sencilla.
+:computer: En este portafolio encontrarás cinco proyectos desarrollados en Jupyter Notebook. Para facilitar su visualización, han sido exportados a formato HTML, permitiendo a los usuarios explorarlos de manera más sencilla.
 
 :star: Proyecto #1: Food Hub. Este proyecto analiza los pedidos de una plataforma de entrega de alimentos para identificar la demanda de los restaurantes y mejorar la experiencia del cliente. Se exploran técnicas de programación, manipulación de datos con NumPy y Pandas, análisis estadístico y visualización con Matplotlib, Seaborn y Plotly. Además, se realizan tratamientos de valores faltantes y outliers, junto con análisis univariado y bivariado. El objetivo es extraer información clave para optimizar el negocio y la toma de decisiones.
 
