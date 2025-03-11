@@ -5,6 +5,7 @@ Machine learning - Stefhany Rodriguez
 En este portafolio encontrarás cinco proyectos desarrollados en Jupyter Notebook. Para facilitar su visualización, han sido exportados a formato HTML, permitiendo a los usuarios explorarlos de manera más sencilla.
 
 Proyecto #1: Food Hub. Este proyecto analiza los pedidos de una plataforma de entrega de alimentos para identificar la demanda de los restaurantes y mejorar la experiencia del cliente. Se exploran técnicas de programación, manipulación de datos con NumPy y Pandas, análisis estadístico y visualización con Matplotlib, Seaborn y Plotly. Además, se realizan tratamientos de valores faltantes y outliers, junto con análisis univariado y bivariado. El objetivo es extraer información clave para optimizar el negocio y la toma de decisiones.
+https://stefhany17.github.io/portafolioMLStefhany/FoodhubStefhany.html
 
 Proyecto #2: E News. Este proyecto analiza si un rediseño de la página de inicio mejora la adquisición de suscriptores mediante A/B testing y pruebas estadísticas con un nivel de significancia del 5%. Se evalúa el impacto en el tiempo de permanencia, la tasa de conversión y la influencia del idioma preferido. Se aplican pruebas de hipótesis, comparación de medias, proporciones, independencia y ANOVA para validar la efectividad del nuevo diseño.
 
