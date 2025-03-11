@@ -1,7 +1,6 @@
 # portafolioMLStefhany
 
 Machine learning - Stefhany Rodriguez
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 En este portafolio encontrarás cinco proyectos desarrollados en Jupyter Notebook. Para facilitar su visualización, han sido exportados a formato HTML, permitiendo a los usuarios explorarlos de manera más sencilla.
 
@@ -24,4 +23,7 @@ https://stefhany17.github.io/portafolioMLStefhany/INNHotels.html
 Proyecto #5: Easy Visa - Predicción de Aprobación de Visas. Se implementa un modelo de Machine Learning para predecir la aprobación de visas en EE. UU., optimizando el proceso de certificación laboral del OFLC ante el creciente número de solicitudes. Técnicas utilizadas: Bagging: Random Forest y muestreo con reemplazo. Boosting: Adaboost y Gradient Boost. Stacking: Combinación de múltiples modelos para mejorar la precisión. Modelo para predecir aprobaciones de visas, ayudando a OFLC a agilizar el proceso y recomendar perfiles con mayor probabilidad de certificación.
 
 https://stefhany17.github.io/portafolioMLStefhany/EasyVisa.html
+
+
+![hippo](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t2bDcyeWd6MjRvYXg3NTg1cXp4ODAzd3A2ZXZzZGp5NGliYXVyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BferOKonYOspm28AiB/giphy.gif)
 
